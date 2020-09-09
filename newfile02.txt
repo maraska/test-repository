@@ -1,3 +1,4 @@
 this is my new file 02
 modified for MAINT branch
-start working on issue #003
+Issue 03 completed
+Issue 03 tested also
