@@ -1,2 +1,3 @@
 my new file 01
 modified for MAINT branch
+fixed issue #0002
